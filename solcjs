@@ -23,7 +23,7 @@ const commanderParseInt = function(value) {
   return parsedValue;
 };
 
-program.name('solcjs');
+program.name('solppcjs');
 program.version(solc.version());
 program
   .option('--version', 'Show version and exit.')

@@ -1,10 +1,10 @@
 {
-  "name": "solc",
+  "name": "solppc",
   "version": "0.8.9",
-  "description": "Solidity compiler",
+  "description": "SolidityPP compiler",
   "main": "index.js",
   "bin": {
-    "solcjs": "solcjs"
+    "solppcjs": "solppcjs"
   },
   "scripts": {
     "lint": "node ./node_modules/semistandard/bin/cmd.js",
