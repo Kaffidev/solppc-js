@@ -33,7 +33,7 @@
     "linker.js",
     "smtchecker.js",
     "smtsolver.js",
-    "solcjs",
+    "solppcjs",
     "soljson.js",
     "translate.js",
     "wrapper.js"

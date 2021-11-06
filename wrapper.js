@@ -219,7 +219,7 @@ function setupMethods (soljson) {
         errors: [
           {
             'type': 'JSONError',
-            'component': 'solcjs',
+            'component': 'solppcjs',
             'severity': 'error',
             'message': message,
             'formattedMessage': 'Error: ' + message
